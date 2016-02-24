@@ -1,5 +1,8 @@
+@import "foo.scss";
+
 $red:#FF3399;
+$blue:#000091;
 
 .red {
-  color: $red;
+  color: $blue;
 }
